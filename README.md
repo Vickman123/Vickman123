@@ -11,13 +11,12 @@
 </p>
 
 ---
-
 ## 🎯 About Me
 
 - 🎓 Computer Science graduate from **UPIICSA-IPN**
+- 💼 **IT Services Management & Delivery Leader** at **PC PUMA - UNAM** | Strategic digital transformation initiative providing connectivity, device lending, and digital literacy to the university community
 - 🚀 Founder of **SPACE TECH LABS** & **SPACE UPIICSA** | Creator of *Cumbre Espacial Universitaria*
 - 🛰️ Official collaborator with **Mexican Space Agency**, **FAMEX**, and developer of the official website for astronaut **Rodolfo Neri Vela**
-- 💼 Experience in international trade tech: **Cámara de Comercio México-China**, automation with Google Apps Script, MySQL optimization
 - 🌐 Trilingual: Spanish (native), English (intermediate), Chinese (studying)
 - ✍️ Currently promoting the documentary *"Neri Vela: Espacio sin Límites"* (FAMEX)
 
@@ -48,8 +47,29 @@
 
 ---
 
+## 📈 Impact & Achievements
+
+- ✅ **IT Services Leadership**: Responsible for management and delivery of TI services at PC PUMA - UNAM, ensuring operational continuity for connectivity and device lending modules across multiple academic entities [[11]]
+- ✅ **45% reduction** in manual data processing time for Canton Fair 2024 logistics
+- ✅ Designed relational databases in **3NF** with stored procedures for automated reporting
+- ✅ Led technical translation (ES-ZH-EN) for diplomatic events and executive communications
+- ✅ Developed scroll-triggered animations and interactive web experiences with cinematic aesthetics
+
 ## 🚀 Featured Projects
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| **[Rodolfo Neri Vela - Official Website](#)** | Sitio oficial del primer astronauta mexicano | HTML5, CSS
+| **[PC PUMA - UNAM](https://pcpuma.unam.mx)** | 🎓 Digital inclusion program: Equipment lending system, wireless connectivity infrastructure, and digital training for 300k+ university community members. Led IT service delivery & analysis. | HTML5, CSS3, JS, Bootstrap, MySQL, Google Apps Script |
+| **[Rodolfo Neri Vela - Official Website](#)** | Sitio oficial del primer astronauta mexicano | HTML5, CSS3, JS, GSAP |
+| **[SPACE TECH LABS](#)** | Plataforma de divulgación y proyectos de informática espacial | Vue.js, Node.js, GCP |
+| **[Sistema de Gestión - Canton Fair 2024](#)** | Automatización que redujo 45% tiempo de procesamiento | Google Apps Script, MySQL, Sheets API |
+| **[Neri Vela: Espacio sin Límites](#)** | Web promocional para documental cinematográfico (FAMEX) | HTML5, CSS3, JS, Video API |
+
+---
+## 🤝 Open to Collaborate On
+
+- 🛰️ Space sector technology projects in Mexico
+- 🎓 E-learning platforms & digital inclusion initiatives (like PC PUMA model)
+- 🏛️ IT service management, process automation, and digital transformation in education
+- 🌍 International initiatives requiring trilingual technical support
+- 🎬 Audiovisual promotion projects (documentaries, events, FAMEX-related)
