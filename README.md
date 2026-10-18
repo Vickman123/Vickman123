@@ -85,6 +85,56 @@
 | **[Ofrenda 3D](https://vickman123.github.io/Ofrenda_3D/)** | Creative WebGL | Interactive Mexican Day of the Dead 3D altar with real-time shaders and custom lighting. | [🚀 Live Demo](https://vickman123.github.io/Ofrenda_3D/) · [Code](https://github.com/Vickman123/Ofrenda_3D) |
 | **[Convertidor PDF a Word Client-Side](https://vickman123.github.io/Convertidor-pdf-a-word-multidocs/)** | Utility / Privacy | 100% in-browser PDF to DOCX converter with zero server latency and total privacy. | [🚀 Live Demo](https://vickman123.github.io/Convertidor-pdf-a-word-multidocs/) · [Code](https://github.com/Vickman123/Convertidor-pdf-a-word-multidocs) |
 
+<details>
+<summary><b>📂 Click to expand: Explore Victor's full ecosystem of 40+ public projects and live deployments</b></summary>
+<br/>
+
+#### 🥽 WebXR, 3D Graphics & Spatial Computing
+- **[Framework-XVR](https://github.com/Vickman123/Framework-XVR)** ([Live Demo](https://vickman123.github.io/Framework-XVR/)) — VXR Framework: Modular TypeScript engine for building responsive WebXR & 3D apps on Meta Quest 3S and PC.
+- **[visor-xr](https://github.com/Vickman123/visor-xr)** ([Live Demo](https://vickman123.github.io/visor-xr/)) — XR Model Viewer: Professional 3D and architectural VR inspection suite.
+- **[FPS-WEBXR-VIRUS-PURGE](https://github.com/Vickman123/FPS-WEBXR-VIRUS-PURGE)** ([Live Demo](https://vickman123.github.io/FPS-WEBXR-VIRUS-PURGE/)) — Cybersecurity arcade FPS game playable in browser and WebXR headsets.
+- **[Ofrenda_3D](https://github.com/Vickman123/Ofrenda_3D)** ([Live Demo](https://vickman123.github.io/Ofrenda_3D/)) — Interactive Mexican Day of the Dead 3D altar & WebXR experience with custom shaders.
+- **[MEDIC-VR](https://github.com/Vickman123/MEDIC-VR)** ([Live Demo](https://vickman123.github.io/MEDIC-VR/)) — Healthcare & medical WebVR exploration simulator for clinical education.
+- **[TEST1-ZONAVR](https://github.com/Vickman123/TEST1-ZONAVR)** ([Live Demo](https://vickman123.github.io/TEST1-ZONAVR/)) — Spatial boundary and VR controller mapping prototype.
+- **[popmaker3d](https://github.com/Vickman123/popmaker3d)** ([Live Demo](https://vickman123.github.io/popmaker3d/)) — Procedural 3D mesh customization and generation tool.
+- **[3D Card STS-61-B](https://github.com/Vickman123/CodePen-Home-3D-CARD-CREW-MISION-STS-61-B)** ([Live Demo](https://vickman123.github.io/CodePen-Home-3D-CARD-CREW-MISION-STS-61-B/)) — Dynamic parallax 3D card honoring the STS-61-B astronaut crew.
+
+#### 🏛️ UNAM PC PUMA & Educational Infrastructure
+- **[Simulador Operador PC PUMA](https://github.com/Vickman123/Simulador-operador-pcpuma)** ([Live Demo](https://vickman123.github.io/Simulador-operador-pcpuma/)) — Scenario-based training simulator for laptop lending module operators.
+- **[PCPUMA AI Studio](https://github.com/Vickman123/TEST-IA-APP)** ([Live Demo](https://vickman123.github.io/TEST-IA-APP/)) — Multi-agent AI platform integrated with DashScope Qwen & OpenAI APIs.
+- **[AULA IA PC PUMA](https://github.com/Vickman123/AULA_IA_PCPUMA)** ([Live Demo](https://vickman123.github.io/AULA_IA_PCPUMA/)) — Portal and platform for university AI classroom initiative.
+- **[UX Kiosco PC PUMA](https://github.com/Vickman123/UX-KIOSCO-PC-PUMA)** ([Live Demo](https://vickman123.github.io/UX-KIOSCO-PC-PUMA/)) — Interactive touchscreen kiosk UI for student identity verification.
+- **[WebVR PC PUMA](https://github.com/Vickman123/webvrpcpuma)** ([Live Demo](https://vickman123.github.io/webvrpcpuma/)) — Immersive virtual campus tour and service module showcase.
+- **[PC PUMA Bicifest](https://github.com/Vickman123/PCPUMA-BICIFEST-2026)** ([Live Demo](https://vickman123.github.io/PCPUMA-BICIFEST-2026/)) — Campus mobility and digital literacy festival platform.
+- **[Flappy Puma](https://github.com/Vickman123/Flappy-puma-)** ([Live Demo](https://vickman123.github.io/Flappy-puma-/)) — Campus engagement arcade runner game.
+- **[475 Años UNAM](https://github.com/Vickman123/475-UNAM-ANIVERSARIO)** ([Live Demo](https://vickman123.github.io/475-UNAM-ANIVERSARIO/)) — Commemorative anniversary portal.
+- **[Centro de Atención a Usuarios (CAU)](https://github.com/Vickman123/CAU)** ([Live Demo](https://vickman123.github.io/CAU/)) — Student incident reporting and helpdesk portal.
+
+#### 🛰️ Space Informatics & Aerospace Projects
+- **[Neri Vela: Espacio sin Límites](https://github.com/Vickman123/Documental-Neri-Vela-Espacio-Sin-Limites)** ([Live Demo](https://vickman123.github.io/Documental-Neri-Vela-Espacio-Sin-Limites/)) — Official website for documentary in collaboration with FAMEX.
+- **[SPACE TECH LABS](https://github.com/Vickman123/SPACE_TECH_LABS_2025)** ([Live Demo](https://vickman123.github.io/SPACE_TECH_LABS_2025/)) — Aerospace informatics innovation hub and hackathon platform.
+- **[La Gran Carrera Intergaláctica](https://github.com/Vickman123/La-gran-carrera-intergalactica-neri-vela)** ([Live Demo](https://vickman123.github.io/La-gran-carrera-intergalactica-neri-vela/)) — Space arcade gamification.
+- **[Fundamentos de Propulsión](https://github.com/Vickman123/Fundamentos-de-Propulsi-n-y-Veh-culos-Espaciales)** ([Live Demo](https://vickman123.github.io/Fundamentos-de-Propulsi-n-y-Veh-culos-Espaciales/)) — Manual and interactive resource for rocket propulsion.
+- **[Curso Python Espacial](https://github.com/Vickman123/Curso-de-Python-Espacial-De-Principiante-a-Experto-en-Coheter-a-y-Espacio)** ([Live Demo](https://vickman123.github.io/Curso-de-Python-Espacial-De-Principiante-a-Experto-en-Coheter-a-y-Espacio/)) — Trajectory, rocketry, and telemetry calculation curriculum.
+- **[Alianza Proyectos Astrociencias](https://github.com/Vickman123/alianza-proyectos-astrociencias)** ([Live Demo](https://vickman123.github.io/alianza-proyectos-astrociencias/)) — Inter-institutional space sciences alliance.
+
+#### 🛠️ Client-Side Web Tools & Security Utilities
+- **[Convertidor PDF a Word Masivo](https://github.com/Vickman123/Convertidor-pdf-a-word-multidocs)** ([Live Demo](https://vickman123.github.io/Convertidor-pdf-a-word-multidocs/)) — 100% Client-side private PDF to Word converter.
+- **[Smartekh SOC Assistant](https://github.com/Vickman123/Smartekh-SOC-Assistant-SSA-)** ([Live Demo](https://vickman123.github.io/Smartekh-SOC-Assistant-SSA-/)) — Cybersecurity SOC incident triage and analyst dashboard.
+- **[Scanner Web de Códigos](https://github.com/Vickman123/SCANNER)** ([Live Demo](https://vickman123.github.io/SCANNER/)) — Client-side camera barcode and QR scanning engine.
+- **[Generador QR Web Dinámico](https://github.com/Vickman123/Generador_QR_WEB)** ([Live Demo](https://vickman123.github.io/Generador_QR_WEB/)) — Customizable QR code generation utility.
+- **[Código de Colores](https://github.com/Vickman123/C-digo_Colores)** ([Live Demo](https://vickman123.github.io/C-digo_Colores/)) — Color harmony and hex/rgb converter tool.
+- **[Memorama Mexicano](https://github.com/Vickman123/Memorama_Mexicano)** ([Live Demo](https://vickman123.github.io/Memorama_Mexicano/)) — Cultural memory matching game.
+
+#### 🎓 Computer Science & Algorithms (UPIICSA - IPN)
+- **[SUPIICSA](https://github.com/Vickman123/SUPIICSA)** ([Live Demo](https://vickman123.github.io/SUPIICSA/)) — Aerospace engineering student community at UPIICSA-IPN.
+- **[Algoritmos Computacionales](https://github.com/Vickman123/Algoritmos_Computacionales)** — Core data structures and algorithmic implementations in C++.
+- **[Búsqueda Binaria](https://github.com/Vickman123/Busqueda_Binaria)** — Binary Search Tree (BST) algorithms in C++.
+- **[Comparación de Métodos de Ordenamiento](https://github.com/Vickman123/Comparacion_Tipos_Ordenamiento)** — Empirical Big-O runtime benchmark in C++.
+- **[Programación Móvil con Flutter](https://github.com/Vickman123/Programacion_Movil_3CM50)** — Mobile applications built with Dart & Flutter.
+
+</details>
+
 ---
 
 ### 📊 GitHub Activity & Statistics
