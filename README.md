@@ -3,7 +3,7 @@
 # 👨‍🚀 Hi there, I'm Victor Carreño Garavito!
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=00D2FF&center=true&vCenter=true&width=700&lines=Space+Informatics+Specialist+%F0%9F%9A%80;Full-Stack+%26+WebXR+%2F+3D+Developer+%F0%9F%A5%BD;IT+Delivery+Leader+%40+PC+PUMA+-+UNAM+%F0%9F%8F%9B%EF%B8%8F;Founder+%40+SPACE+TECH+LABS+%26+SPACE+UPIICSA+%F0%9F%9B%B0%EF%B8%8F;Building+the+Future+of+Immersive+Tech+%26+Education+%F0%9F%87%B2%F0%9F%87%BD" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=00D2FF&center=true&vCenter=true&width=700&lines=Creator+of+VXR+Framework+(WebXR+%2F+3D)+%F0%9F%A5%BD;Space+Informatics+Specialist+%F0%9F%9A%80;Full-Stack+%26+Spatial+Computing+Developer+%E2%9C%A8;IT+Delivery+Leader+%40+PC+PUMA+-+UNAM+%F0%9F%8F%9B%EF%B8%8F;Founder+%40+SPACE+TECH+LABS+%26+SPACE+UPIICSA+%F0%9F%9B%B0%EF%B8%8F;Building+the+Future+of+Immersive+Tech+%26+Education+%F0%9F%87%B2%F0%9F%87%BD" alt="Typing SVG" />
 </a>
 
 <p align="center">
@@ -25,11 +25,44 @@
 
 - 🎓 **Computer Science** graduate from **UPIICSA - Instituto Politécnico Nacional (IPN)**.
 - 💼 **IT Services Management & Delivery Leader** at **PC PUMA - UNAM** — Directing service delivery, connectivity infrastructure, and digital inclusion systems serving **300k+ students and faculty**.
+- 🥽 **Creator & Core Maintainer** of **[VXR Framework](https://github.com/Vickman123/Framework-XVR)** — Modular TypeScript engine for building responsive WebXR & 3D Web applications for Meta Quest 3S & PC browsers.
 - 🛰️ **Founder** of **SPACE TECH LABS** & **SPACE UPIICSA** | Organizer of the *Cumbre Espacial Universitaria*.
 - 👨‍🚀 **Collaborator** with the **Mexican Space Agency (AEM)** and **FAMEX**; developer of digital projects and official initiatives for astronaut **Dr. Rodolfo Neri Vela**.
-- 🥽 **Immersive Tech & 3D Web**: Architecting interactive experiences in **WebXR, Three.js, and WebGL** for educational simulation and creative computing.
 - 🌐 **Trilingual**: Spanish (Native), English (Intermediate/Professional), Chinese Mandarin (Elementary/Learning).
 - 💡 *Philosophy: Clean modular architecture, performant experiences, and purposeful documentation over bloated plugins.*
+
+---
+
+### 🌌 Flagship Tech: VXR Framework & 3D Spatial Computing
+
+<div align="center">
+
+<a href="https://github.com/Vickman123/Framework-XVR">
+  <img src="https://raw.githubusercontent.com/Vickman123/Framework-XVR/main/vxr-logo.png" alt="VXR Framework" width="520" />
+</a>
+
+<p align="center">
+  <b>High-Level WebXR & 3D Interactive Engine for Three.js</b><br/>
+  <em>Eliminates 70%+ of boilerplate WebGL, auto-grounding, and VR controller setups for Meta Quest 3S & browser experiences.</em>
+</p>
+
+<p align="center">
+  <a href="https://vickman123.github.io/Portafolio_victor_cg/">
+    <img src="https://img.shields.io/badge/%F0%9F%A5%BD%20LAUNCH%203D%20OPERATIONS%20LAB-ENTER%20FACILITY-00F0FF?style=for-the-badge&logo=webxr&logoColor=black" alt="Enter 3D Lab"/>
+  </a>
+  <a href="https://vickman123.github.io/Framework-XVR/">
+    <img src="https://img.shields.io/badge/%F0%9F%93%96%20VXR%20DOCS%20%26%20CATALOG-EXPLORE-6C5CE7?style=for-the-badge&logo=gitbook&logoColor=white" alt="VXR Docs"/>
+  </a>
+  <a href="https://github.com/Vickman123/Framework-XVR">
+    <img src="https://img.shields.io/badge/npm%20install-github:Vickman123%2FFramework--XVR-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm install"/>
+  </a>
+</p>
+
+| 🥽 Spatial VR Apps | 🏛️ Simulators & EdTech | 🎮 WebXR 3D Gaming | 👁️ Architectural Inspection |
+| :---: | :---: | :---: | :---: |
+| <a href="https://vickman123.github.io/Framework-XVR/"><img src="https://raw.githubusercontent.com/Vickman123/Framework-XVR/main/sector-vr.jpg" width="165" alt="VR Apps"/></a> | <a href="https://vickman123.github.io/Simulador-operador-pcpuma/"><img src="https://raw.githubusercontent.com/Vickman123/Framework-XVR/main/sector-sim.jpg" width="165" alt="Simulators"/></a> | <a href="https://vickman123.github.io/FPS-WEBXR-VIRUS-PURGE/"><img src="https://raw.githubusercontent.com/Vickman123/Framework-XVR/main/sector-game.jpg" width="165" alt="Gaming"/></a> | <a href="https://vickman123.github.io/visor-xr/"><img src="https://raw.githubusercontent.com/Vickman123/Framework-XVR/main/sector-arch.jpg" width="165" alt="Architecture"/></a> |
+
+</div>
 
 ---
 
