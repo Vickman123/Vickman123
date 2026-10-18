@@ -1,197 +1,89 @@
-<div align="center">
-
-# 👨‍🚀 Hi there, I'm Victor Carreño Garavito!
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=00D2FF&center=true&vCenter=true&width=700&lines=Creator+of+VXR+Framework+(WebXR+%2F+3D)+%F0%9F%A5%BD;Space+Informatics+Specialist+%F0%9F%9A%80;Full-Stack+%26+Spatial+Computing+Developer+%E2%9C%A8;IT+Delivery+Leader+%40+PC+PUMA+-+UNAM+%F0%9F%8F%9B%EF%B8%8F;Founder+%40+SPACE+TECH+LABS+%26+SPACE+UPIICSA+%F0%9F%9B%B0%EF%B8%8F;Building+the+Future+of+Immersive+Tech+%26+Education+%F0%9F%87%B2%F0%9F%87%BD" alt="Typing SVG" />
-</a>
-
+<h1 align="center">Hi 👋, I'm Victor Carreño Garavito</h1>
+<h3 align="center">Space Informatics Specialist | WebXR & Full-Stack Developer | Founder @ SPACE TECH LABS</h3>
 <p align="center">
-  <em>Building digital experiences at the intersection of technology, space exploration, 3D Web & digital inclusion.</em>
+  <em>Building digital experiences at the intersection of technology, space exploration, WebXR, and education 🇲🇽🚀</em>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vickcg/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:hola@teranube.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://x.com/CarrenoGara"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/></a>
-  <a href="https://vickman123.github.io/Portafolio_victor_cg/"><img src="https://img.shields.io/badge/3D_Portfolio-00F0FF?style=for-the-badge&logo=three.js&logoColor=black" alt="3D Portfolio"/></a>
+  <a href="https://vxrframework.space"><img src="https://img.shields.io/badge/VXR_Framework-00F0FF?style=for-the-badge&logo=webxr&logoColor=black" alt="VXR Framework"/></a>
+  <a href="https://vickman123.github.io/Portafolio_victor_cg/"><img src="https://img.shields.io/badge/3D_Portfolio-6C5CE7?style=for-the-badge&logo=three.js&logoColor=white" alt="3D Portfolio"/></a>
 </p>
-
-</div>
 
 ---
 
-### 🚀 About Me
+## 🎯 About Me
 
-- 🎓 **Computer Science** graduate from **UPIICSA - Instituto Politécnico Nacional (IPN)**.
-- 💼 **IT Services Management & Delivery Leader** at **PC PUMA - UNAM** — Directing service delivery, connectivity infrastructure, and digital inclusion systems serving **300k+ students and faculty**.
-- 🥽 **Creator & Core Maintainer** of **[VXR Framework](https://github.com/Vickman123/Framework-XVR)** — Modular TypeScript engine for building responsive WebXR & 3D Web applications for Meta Quest 3S & PC browsers.
-- 🛰️ **Founder** of **SPACE TECH LABS** & **SPACE UPIICSA** | Organizer of the *Cumbre Espacial Universitaria*.
-- 👨‍🚀 **Collaborator** with the **Mexican Space Agency (AEM)** and **FAMEX**; developer of digital projects and official initiatives for astronaut **Dr. Rodolfo Neri Vela**.
-- 🌐 **Trilingual**: Spanish (Native), English (Intermediate/Professional), Chinese Mandarin (Elementary/Learning).
-- 💡 *Philosophy: Clean modular architecture, performant experiences, and purposeful documentation over bloated plugins.*
-
----
-
-### 🌌 Flagship Tech: VXR Framework & 3D Spatial Computing
-
-<div align="center">
-
-<a href="https://github.com/Vickman123/Framework-XVR">
-  <img src="https://raw.githubusercontent.com/Vickman123/Framework-XVR/main/vxr-logo.png" alt="VXR Framework" width="520" />
-</a>
-
-<p align="center">
-  <b>High-Level WebXR & 3D Interactive Engine for Three.js</b><br/>
-  <em>Eliminates 70%+ of boilerplate WebGL, auto-grounding, and VR controller setups for Meta Quest 3S & browser experiences.</em>
-</p>
-
-<p align="center">
-  <a href="https://vickman123.github.io/Portafolio_victor_cg/">
-    <img src="https://img.shields.io/badge/%F0%9F%A5%BD%20LAUNCH%203D%20OPERATIONS%20LAB-ENTER%20FACILITY-00F0FF?style=for-the-badge&logo=webxr&logoColor=black" alt="Enter 3D Lab"/>
-  </a>
-  <a href="https://vickman123.github.io/Framework-XVR/">
-    <img src="https://img.shields.io/badge/%F0%9F%93%96%20VXR%20DOCS%20%26%20CATALOG-EXPLORE-6C5CE7?style=for-the-badge&logo=gitbook&logoColor=white" alt="VXR Docs"/>
-  </a>
-  <a href="https://github.com/Vickman123/Framework-XVR">
-    <img src="https://img.shields.io/badge/npm%20install-github:Vickman123%2FFramework--XVR-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm install"/>
-  </a>
-</p>
-
-| 🥽 Spatial VR Apps | 🏛️ Simulators & EdTech | 🎮 WebXR 3D Gaming | 👁️ Architectural Inspection |
-| :---: | :---: | :---: | :---: |
-| <a href="https://vickman123.github.io/Framework-XVR/"><img src="https://raw.githubusercontent.com/Vickman123/Framework-XVR/main/sector-vr.jpg" width="165" alt="VR Apps"/></a> | <a href="https://vickman123.github.io/Simulador-operador-pcpuma/"><img src="https://raw.githubusercontent.com/Vickman123/Framework-XVR/main/sector-sim.jpg" width="165" alt="Simulators"/></a> | <a href="https://vickman123.github.io/FPS-WEBXR-VIRUS-PURGE/"><img src="https://raw.githubusercontent.com/Vickman123/Framework-XVR/main/sector-game.jpg" width="165" alt="Gaming"/></a> | <a href="https://vickman123.github.io/visor-xr/"><img src="https://raw.githubusercontent.com/Vickman123/Framework-XVR/main/sector-arch.jpg" width="165" alt="Architecture"/></a> |
-
-</div>
+- 🎓 Computer Science graduate from **UPIICSA - Instituto Politécnico Nacional (IPN)**.
+- 💼 **IT Services Management & Delivery Leader** at **PC PUMA - UNAM** | Strategic digital transformation initiative providing wireless connectivity, device lending infrastructure, and digital literacy to over 300,000 members of the university community.
+- 🥽 **Creator & Core Maintainer** of **[VXR / XVR Framework](https://vxrframework.space)** ([GitHub](https://github.com/Vickman123/Framework-XVR)) | High-level TypeScript engine built on Three.js & WebXR Device API for rapid spatial computing on Meta Quest 3S and modern web browsers.
+- 🚀 Founder of **SPACE TECH LABS** & **SPACE UPIICSA** | Creator of *Cumbre Espacial Universitaria*.
+- 🛰️ Official collaborator with the **Mexican Space Agency (AEM)**, **FAMEX**, and developer of official digital projects for Mexican astronaut **Dr. Rodolfo Neri Vela**.
+- 🎬 Digital promoter for the cinematographic documentary *"Neri Vela: Espacio sin Límites"* (FAMEX).
+- 🌐 Trilingual: Spanish (native), English (intermediate/professional), Chinese Mandarin (studying).
 
 ---
 
-### 🛠️ Tech Stack & Toolkit
+## 💻 Tech Stack (Curated)
 
-<div align="center">
-
-#### 🥽 Immersive & 3D Web (WebXR)
-![WebXR](https://img.shields.io/badge/WebXR-000000?style=flat-square&logo=webxr&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
-![WebGL](https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white)
-
-#### 💻 Frontend & Languages
+### 🖥️ Core Development & Spatial Computing
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-
-#### ⚙️ Backend, Data & Automation
+![WebXR](https://img.shields.io/badge/WebXR-000000?style=flat-square&logo=webxr&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Google Apps Script](https://img.shields.io/badge/Apps_Script-4285F4?style=flat-square&logo=google&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=fastapi&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-#### ☁️ Cloud, DevOps & Creative Design
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+### ☁️ Cloud & DevOps
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+### 🎨 Design & Multimedia
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
 
-</div>
-
----
-
-### 🌟 Featured Projects & Live Deployments
-
-| Project | Domain | Description | Stack / Links |
-| :--- | :--- | :--- | :--- |
-| **[3D Operations Lab (Portfolio)](https://vickman123.github.io/Portafolio_victor_cg/)** | Immersive Web | Explorable 3D WebGL laboratory and operations facility inspired by aerospace control decks. | [🚀 Live Demo](https://vickman123.github.io/Portafolio_victor_cg/) · [Code](https://github.com/Vickman123/Portafolio_victor_cg) |
-| **[VXR Framework](https://github.com/Vickman123/Framework-XVR)** | WebXR Engine | Modular TypeScript architecture designed to build performant, responsive WebXR applications for Meta Quest & PC. | [🚀 Live Demo](https://vickman123.github.io/Framework-XVR/) · [Code](https://github.com/Vickman123/Framework-XVR) |
-| **[PC PUMA - UNAM](https://pcpuma.unam.mx)** | Macro EdTech | Large-scale digital inclusion system managing device lending, connectivity, and digital training for 300k+ users. | [Official Portal](https://pcpuma.unam.mx) · `MySQL` `JS` `GAS` |
-| **[XR Model Viewer](https://vickman123.github.io/visor-xr/)** | Spatial XR | Interactive 3D model & architectural viewer built for Meta Quest 3S and desktop browsers. | [🚀 Live Demo](https://vickman123.github.io/visor-xr/) · [Code](https://github.com/Vickman123/visor-xr) |
-| **[VIRUS PURGE (WebXR FPS)](https://vickman123.github.io/FPS-WEBXR-VIRUS-PURGE/)** | 3D Gaming | Cybersecurity arcade shooter playable both in browser and immersive WebXR VR headsets. | [🚀 Live Demo](https://vickman123.github.io/FPS-WEBXR-VIRUS-PURGE/) · [Code](https://github.com/Vickman123/FPS-WEBXR-VIRUS-PURGE) |
-| **[PCPUMA AI Studio](https://vickman123.github.io/TEST-IA-APP/)** | AI / Agents | Multi-agent AI platform integrated with DashScope Qwen / OpenAI APIs for private workflow automation. | [🚀 Live Demo](https://vickman123.github.io/TEST-IA-APP/) · [Code](https://github.com/Vickman123/TEST-IA-APP) |
-| **[Neri Vela: Espacio sin Límites](https://vickman123.github.io/Documental-Neri-Vela-Espacio-Sin-Limites/)** | Space Tech | Official website for the documentary honoring Mexico's first astronaut Dr. Rodolfo Neri Vela (FAMEX). | [🚀 Live Demo](https://vickman123.github.io/Documental-Neri-Vela-Espacio-Sin-Limites/) · [Code](https://github.com/Vickman123/Documental-Neri-Vela-Espacio-Sin-Limites) |
-| **[Simulador Operador PC PUMA](https://vickman123.github.io/Simulador-operador-pcpuma/)** | Training UX | Scenario-based training simulator for campus equipment lending operators. | [🚀 Live Demo](https://vickman123.github.io/Simulador-operador-pcpuma/) · [Code](https://github.com/Vickman123/Simulador-operador-pcpuma) |
-| **[Ofrenda 3D](https://vickman123.github.io/Ofrenda_3D/)** | Creative WebGL | Interactive Mexican Day of the Dead 3D altar with real-time shaders and custom lighting. | [🚀 Live Demo](https://vickman123.github.io/Ofrenda_3D/) · [Code](https://github.com/Vickman123/Ofrenda_3D) |
-| **[Convertidor PDF a Word Client-Side](https://vickman123.github.io/Convertidor-pdf-a-word-multidocs/)** | Utility / Privacy | 100% in-browser PDF to DOCX converter with zero server latency and total privacy. | [🚀 Live Demo](https://vickman123.github.io/Convertidor-pdf-a-word-multidocs/) · [Code](https://github.com/Vickman123/Convertidor-pdf-a-word-multidocs) |
-
-<details>
-<summary><b>📂 Click to expand: Explore Victor's full ecosystem of 40+ public projects and live deployments</b></summary>
-<br/>
-
-#### 🥽 WebXR, 3D Graphics & Spatial Computing
-- **[Framework-XVR](https://github.com/Vickman123/Framework-XVR)** ([Live Demo](https://vickman123.github.io/Framework-XVR/)) — VXR Framework: Modular TypeScript engine for building responsive WebXR & 3D apps on Meta Quest 3S and PC.
-- **[visor-xr](https://github.com/Vickman123/visor-xr)** ([Live Demo](https://vickman123.github.io/visor-xr/)) — XR Model Viewer: Professional 3D and architectural VR inspection suite.
-- **[FPS-WEBXR-VIRUS-PURGE](https://github.com/Vickman123/FPS-WEBXR-VIRUS-PURGE)** ([Live Demo](https://vickman123.github.io/FPS-WEBXR-VIRUS-PURGE/)) — Cybersecurity arcade FPS game playable in browser and WebXR headsets.
-- **[Ofrenda_3D](https://github.com/Vickman123/Ofrenda_3D)** ([Live Demo](https://vickman123.github.io/Ofrenda_3D/)) — Interactive Mexican Day of the Dead 3D altar & WebXR experience with custom shaders.
-- **[MEDIC-VR](https://github.com/Vickman123/MEDIC-VR)** ([Live Demo](https://vickman123.github.io/MEDIC-VR/)) — Healthcare & medical WebVR exploration simulator for clinical education.
-- **[TEST1-ZONAVR](https://github.com/Vickman123/TEST1-ZONAVR)** ([Live Demo](https://vickman123.github.io/TEST1-ZONAVR/)) — Spatial boundary and VR controller mapping prototype.
-- **[popmaker3d](https://github.com/Vickman123/popmaker3d)** ([Live Demo](https://vickman123.github.io/popmaker3d/)) — Procedural 3D mesh customization and generation tool.
-- **[3D Card STS-61-B](https://github.com/Vickman123/CodePen-Home-3D-CARD-CREW-MISION-STS-61-B)** ([Live Demo](https://vickman123.github.io/CodePen-Home-3D-CARD-CREW-MISION-STS-61-B/)) — Dynamic parallax 3D card honoring the STS-61-B astronaut crew.
-
-#### 🏛️ UNAM PC PUMA & Educational Infrastructure
-- **[Simulador Operador PC PUMA](https://github.com/Vickman123/Simulador-operador-pcpuma)** ([Live Demo](https://vickman123.github.io/Simulador-operador-pcpuma/)) — Scenario-based training simulator for laptop lending module operators.
-- **[PCPUMA AI Studio](https://github.com/Vickman123/TEST-IA-APP)** ([Live Demo](https://vickman123.github.io/TEST-IA-APP/)) — Multi-agent AI platform integrated with DashScope Qwen & OpenAI APIs.
-- **[AULA IA PC PUMA](https://github.com/Vickman123/AULA_IA_PCPUMA)** ([Live Demo](https://vickman123.github.io/AULA_IA_PCPUMA/)) — Portal and platform for university AI classroom initiative.
-- **[UX Kiosco PC PUMA](https://github.com/Vickman123/UX-KIOSCO-PC-PUMA)** ([Live Demo](https://vickman123.github.io/UX-KIOSCO-PC-PUMA/)) — Interactive touchscreen kiosk UI for student identity verification.
-- **[WebVR PC PUMA](https://github.com/Vickman123/webvrpcpuma)** ([Live Demo](https://vickman123.github.io/webvrpcpuma/)) — Immersive virtual campus tour and service module showcase.
-- **[PC PUMA Bicifest](https://github.com/Vickman123/PCPUMA-BICIFEST-2026)** ([Live Demo](https://vickman123.github.io/PCPUMA-BICIFEST-2026/)) — Campus mobility and digital literacy festival platform.
-- **[Flappy Puma](https://github.com/Vickman123/Flappy-puma-)** ([Live Demo](https://vickman123.github.io/Flappy-puma-/)) — Campus engagement arcade runner game.
-- **[475 Años UNAM](https://github.com/Vickman123/475-UNAM-ANIVERSARIO)** ([Live Demo](https://vickman123.github.io/475-UNAM-ANIVERSARIO/)) — Commemorative anniversary portal.
-- **[Centro de Atención a Usuarios (CAU)](https://github.com/Vickman123/CAU)** ([Live Demo](https://vickman123.github.io/CAU/)) — Student incident reporting and helpdesk portal.
-
-#### 🛰️ Space Informatics & Aerospace Projects
-- **[Neri Vela: Espacio sin Límites](https://github.com/Vickman123/Documental-Neri-Vela-Espacio-Sin-Limites)** ([Live Demo](https://vickman123.github.io/Documental-Neri-Vela-Espacio-Sin-Limites/)) — Official website for documentary in collaboration with FAMEX.
-- **[SPACE TECH LABS](https://github.com/Vickman123/SPACE_TECH_LABS_2025)** ([Live Demo](https://vickman123.github.io/SPACE_TECH_LABS_2025/)) — Aerospace informatics innovation hub and hackathon platform.
-- **[La Gran Carrera Intergaláctica](https://github.com/Vickman123/La-gran-carrera-intergalactica-neri-vela)** ([Live Demo](https://vickman123.github.io/La-gran-carrera-intergalactica-neri-vela/)) — Space arcade gamification.
-- **[Fundamentos de Propulsión](https://github.com/Vickman123/Fundamentos-de-Propulsi-n-y-Veh-culos-Espaciales)** ([Live Demo](https://vickman123.github.io/Fundamentos-de-Propulsi-n-y-Veh-culos-Espaciales/)) — Manual and interactive resource for rocket propulsion.
-- **[Curso Python Espacial](https://github.com/Vickman123/Curso-de-Python-Espacial-De-Principiante-a-Experto-en-Coheter-a-y-Espacio)** ([Live Demo](https://vickman123.github.io/Curso-de-Python-Espacial-De-Principiante-a-Experto-en-Coheter-a-y-Espacio/)) — Trajectory, rocketry, and telemetry calculation curriculum.
-- **[Alianza Proyectos Astrociencias](https://github.com/Vickman123/alianza-proyectos-astrociencias)** ([Live Demo](https://vickman123.github.io/alianza-proyectos-astrociencias/)) — Inter-institutional space sciences alliance.
-
-#### 🛠️ Client-Side Web Tools & Security Utilities
-- **[Convertidor PDF a Word Masivo](https://github.com/Vickman123/Convertidor-pdf-a-word-multidocs)** ([Live Demo](https://vickman123.github.io/Convertidor-pdf-a-word-multidocs/)) — 100% Client-side private PDF to Word converter.
-- **[Smartekh SOC Assistant](https://github.com/Vickman123/Smartekh-SOC-Assistant-SSA-)** ([Live Demo](https://vickman123.github.io/Smartekh-SOC-Assistant-SSA-/)) — Cybersecurity SOC incident triage and analyst dashboard.
-- **[Scanner Web de Códigos](https://github.com/Vickman123/SCANNER)** ([Live Demo](https://vickman123.github.io/SCANNER/)) — Client-side camera barcode and QR scanning engine.
-- **[Generador QR Web Dinámico](https://github.com/Vickman123/Generador_QR_WEB)** ([Live Demo](https://vickman123.github.io/Generador_QR_WEB/)) — Customizable QR code generation utility.
-- **[Código de Colores](https://github.com/Vickman123/C-digo_Colores)** ([Live Demo](https://vickman123.github.io/C-digo_Colores/)) — Color harmony and hex/rgb converter tool.
-- **[Memorama Mexicano](https://github.com/Vickman123/Memorama_Mexicano)** ([Live Demo](https://vickman123.github.io/Memorama_Mexicano/)) — Cultural memory matching game.
-
-#### 🎓 Computer Science & Algorithms (UPIICSA - IPN)
-- **[SUPIICSA](https://github.com/Vickman123/SUPIICSA)** ([Live Demo](https://vickman123.github.io/SUPIICSA/)) — Aerospace engineering student community at UPIICSA-IPN.
-- **[Algoritmos Computacionales](https://github.com/Vickman123/Algoritmos_Computacionales)** — Core data structures and algorithmic implementations in C++.
-- **[Búsqueda Binaria](https://github.com/Vickman123/Busqueda_Binaria)** — Binary Search Tree (BST) algorithms in C++.
-- **[Comparación de Métodos de Ordenamiento](https://github.com/Vickman123/Comparacion_Tipos_Ordenamiento)** — Empirical Big-O runtime benchmark in C++.
-- **[Programación Móvil con Flutter](https://github.com/Vickman123/Programacion_Movil_3CM50)** — Mobile applications built with Dart & Flutter.
-
-</details>
+> 💡 *Prefiero código limpio, módulos personalizados sobre plugins, y documentación exhaustiva.*
 
 ---
 
-### 📊 GitHub Activity & Statistics
+## 📈 Impact & Achievements
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vickman123&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="175" alt="Victor's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vickman123&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="175" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Vickman123&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
-</div>
+- ✅ **IT Services Leadership @ PC PUMA - UNAM**: Responsible for management and delivery of TI services, ensuring operational continuity for connectivity and device lending modules across academic entities for 300k+ students.
+- ✅ **Architect of VXR / XVR Framework**: Built and deployed an open-source WebXR engine ([vxrframework.space](https://vxrframework.space)) that cuts 70%+ of boilerplate WebGL and VR controller mapping code for Meta Quest 3S & PC.
+- ✅ **Space Sector Collaborations**: Official development and digital promotion with Mexican Space Agency (AEM), FAMEX, and Mexico's first astronaut Dr. Rodolfo Neri Vela.
+- ✅ **45% reduction** in manual data processing time for Canton Fair 2024 logistics via custom automated pipelines.
+- ✅ Designed relational databases in **3NF** with stored procedures for automated reporting.
+- ✅ Led technical translation (ES-ZH-EN) for diplomatic events and executive communications.
 
 ---
 
-### 🤝 Open to Collaborate On
+## 🚀 Featured Projects
 
-- 🛰️ **Space Tech & Aerospace Informatics**: Satellite telemetry, mission outreach, and astronomical data visualization.
-- 🥽 **WebXR & Spatial Computing**: Browser-based VR/AR simulators, 3D interactive graphics, and digital twins.
-- 🏛️ **Higher-Ed Digital Inclusion**: Large-scale service architecture, process automation, and equipment lending logistics.
-- 🌍 **International Technical Facilitation**: Cross-border tech initiatives requiring trilingual coordination (ES / EN / ZH).
+| Project | Description | Tech / Link |
+|:---|:---|:---|
+| **[VXR / XVR Framework](https://vxrframework.space)** | 🥽 High-level WebXR and 3D interactive framework built on Three.js for Meta Quest 3S and web browsers. | [vxrframework.space](https://vxrframework.space) · [GitHub Repo](https://github.com/Vickman123/Framework-XVR) |
+| **[PC PUMA - UNAM](https://pcpuma.unam.mx)** | 🎓 Macro digital inclusion program: Equipment lending system, connectivity infrastructure, and digital training for 300k+ university community members. | [Official Portal](https://pcpuma.unam.mx) · `MySQL` `JS` `GAS` |
+| **[Rodolfo Neri Vela & Documental FAMEX](https://vickman123.github.io/Documental-Neri-Vela-Espacio-Sin-Limites/)** | 🛰️ Official promotional website for the cinematographic documentary *"Neri Vela: Espacio sin Límites"* honoring Mexico's first astronaut. | [🚀 Live Site](https://vickman123.github.io/Documental-Neri-Vela-Espacio-Sin-Limites/) · `HTML5` `JS` `GSAP` |
+| **[SPACE TECH LABS](https://vickman123.github.io/SPACE_TECH_LABS_2025/)** | 🚀 Space informatics innovation hub and outreach platform fostering aerospace technology, telemetry, and student hackathons in Mexico. | [🚀 Live Platform](https://vickman123.github.io/SPACE_TECH_LABS_2025/) · `Vue.js` `Node.js` `GCP` |
+| **[3D Operations Lab (Portfolio)](https://vickman123.github.io/Portafolio_victor_cg/)** | 🧪 Explorable 3D WebGL/WebXR personal laboratory and operations facility built with VXR Framework and Three.js. | [🚀 Live Facility](https://vickman123.github.io/Portafolio_victor_cg/) · [GitHub Repo](https://github.com/Vickman123/Portafolio_victor_cg) |
+| **[Simulador Operador PC PUMA](https://vickman123.github.io/Simulador-operador-pcpuma/)** | 🏛️ Scenario-based training simulator for campus equipment lending module operators and IT leaders. | [🚀 Live Simulator](https://vickman123.github.io/Simulador-operador-pcpuma/) · [GitHub Repo](https://github.com/Vickman123/Simulador-operador-pcpuma) |
+| **Sistema de Gestión - Canton Fair 2024** | ⚡ Process automation pipeline that reduced manual operational turnaround by 45%. | `Google Apps Script` `MySQL` `Sheets API` |
 
 ---
 
-<div align="center">
-  <sub>Designed with ❤️ and passion for Space & Code by Victor Carreño Garavito.</sub>
-</div>
+## 🤝 Open to Collaborate On
+
+- 🛰️ Space sector technology and aerospace informatics projects in Mexico (AEM, FAMEX).
+- 🥽 WebXR, 3D Web & spatial computing applications using **VXR / XVR Framework**.
+- 🎓 E-learning platforms & large-scale digital inclusion initiatives (like the PC PUMA model).
+- 🏛️ IT service management, process automation, and digital transformation in higher education.
+- 🌍 International tech initiatives requiring trilingual coordination (ES / EN / ZH).
+- 🎬 Audiovisual and scientific promotion projects (documentaries, aerospace outreach).
