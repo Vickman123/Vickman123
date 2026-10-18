@@ -14,7 +14,7 @@
   <a href="https://www.linkedin.com/in/vickcg/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:hola@teranube.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://x.com/CarrenoGara"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/></a>
-  <a href="https://github.com/Vickman123/Portafolio_victor_cg"><img src="https://img.shields.io/badge/Portfolio-6C5CE7?style=for-the-badge&logo=codereview&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://vickman123.github.io/Portafolio_victor_cg/"><img src="https://img.shields.io/badge/3D_Portfolio-00F0FF?style=for-the-badge&logo=three.js&logoColor=black" alt="3D Portfolio"/></a>
 </p>
 
 </div>
@@ -70,18 +70,20 @@
 
 ---
 
-### 🌟 Featured Projects & Initiatives
+### 🌟 Featured Projects & Live Deployments
 
-| Project | Domain | Description | Technologies |
+| Project | Domain | Description | Stack / Links |
 | :--- | :--- | :--- | :--- |
-| **[PC PUMA - UNAM](https://pcpuma.unam.mx)** | Digital Inclusion | Macro digital transformation program providing connectivity infrastructure, device lending systems, and digital literacy to over 300,000 university students and academics. | `HTML5` `CSS3` `JavaScript` `Bootstrap` `MySQL` `Apps Script` |
-| **[Framework-XVR](https://github.com/Vickman123/Framework-XVR)** | WebXR / 3D | Framework and toolkit designed for crafting scalable, responsive immersive WebXR experiences. | `TypeScript` `WebXR` `Three.js` |
-| **[La Gran Carrera Intergaláctica](https://github.com/Vickman123/La-gran-carrera-intergalactica-neri-vela)** | Space Tech | Interactive space-themed gamified experience dedicated to Mexican astronaut Dr. Rodolfo Neri Vela. | `JavaScript` `Canvas/WebGL` `Audio API` |
-| **[SPACE TECH LABS](https://github.com/Vickman123/SPACE_TECH_LABS_2025)** | Space Informatics | Innovation hub & outreach platform fostering aerospace informatics, satellite technology, and student hackathons. | `Vue.js` `Node.js` `GCP` |
-| **[visor-xr](https://github.com/Vickman123/visor-xr)** | Immersive Viewer | Spatial 3D / XR web viewer for interactive model inspection and augmented spatial assets. | `TypeScript` `WebXR` `3D Graphics` |
-| **[Simulador Operador PC PUMA](https://github.com/Vickman123/Simulador-operador-pcpuma)** | EdTech Simulator | Training simulator for operational staff and service leaders managing academic equipment lending modules. | `TypeScript` `Interactive UX` `State Machine` |
-| **[Ofrenda 3D](https://github.com/Vickman123/Ofrenda_3D)** | Cultural Computing | Cultural tradition meets real-time 3D web graphics with interactive shaders and lighting. | `TypeScript` `Three.js` `GLSL` |
-| **Canton Fair Logistics System** | Process Automation | Automated data processing pipeline that reduced manual operational turnaround by **45%**. | `Apps Script` `MySQL (3NF)` `Sheets API` |
+| **[3D Operations Lab (Portfolio)](https://vickman123.github.io/Portafolio_victor_cg/)** | Immersive Web | Explorable 3D WebGL laboratory and operations facility inspired by aerospace control decks. | [🚀 Live Demo](https://vickman123.github.io/Portafolio_victor_cg/) · [Code](https://github.com/Vickman123/Portafolio_victor_cg) |
+| **[VXR Framework](https://github.com/Vickman123/Framework-XVR)** | WebXR Engine | Modular TypeScript architecture designed to build performant, responsive WebXR applications for Meta Quest & PC. | [🚀 Live Demo](https://vickman123.github.io/Framework-XVR/) · [Code](https://github.com/Vickman123/Framework-XVR) |
+| **[PC PUMA - UNAM](https://pcpuma.unam.mx)** | Macro EdTech | Large-scale digital inclusion system managing device lending, connectivity, and digital training for 300k+ users. | [Official Portal](https://pcpuma.unam.mx) · `MySQL` `JS` `GAS` |
+| **[XR Model Viewer](https://vickman123.github.io/visor-xr/)** | Spatial XR | Interactive 3D model & architectural viewer built for Meta Quest 3S and desktop browsers. | [🚀 Live Demo](https://vickman123.github.io/visor-xr/) · [Code](https://github.com/Vickman123/visor-xr) |
+| **[VIRUS PURGE (WebXR FPS)](https://vickman123.github.io/FPS-WEBXR-VIRUS-PURGE/)** | 3D Gaming | Cybersecurity arcade shooter playable both in browser and immersive WebXR VR headsets. | [🚀 Live Demo](https://vickman123.github.io/FPS-WEBXR-VIRUS-PURGE/) · [Code](https://github.com/Vickman123/FPS-WEBXR-VIRUS-PURGE) |
+| **[PCPUMA AI Studio](https://vickman123.github.io/TEST-IA-APP/)** | AI / Agents | Multi-agent AI platform integrated with DashScope Qwen / OpenAI APIs for private workflow automation. | [🚀 Live Demo](https://vickman123.github.io/TEST-IA-APP/) · [Code](https://github.com/Vickman123/TEST-IA-APP) |
+| **[Neri Vela: Espacio sin Límites](https://vickman123.github.io/Documental-Neri-Vela-Espacio-Sin-Limites/)** | Space Tech | Official website for the documentary honoring Mexico's first astronaut Dr. Rodolfo Neri Vela (FAMEX). | [🚀 Live Demo](https://vickman123.github.io/Documental-Neri-Vela-Espacio-Sin-Limites/) · [Code](https://github.com/Vickman123/Documental-Neri-Vela-Espacio-Sin-Limites) |
+| **[Simulador Operador PC PUMA](https://vickman123.github.io/Simulador-operador-pcpuma/)** | Training UX | Scenario-based training simulator for campus equipment lending operators. | [🚀 Live Demo](https://vickman123.github.io/Simulador-operador-pcpuma/) · [Code](https://github.com/Vickman123/Simulador-operador-pcpuma) |
+| **[Ofrenda 3D](https://vickman123.github.io/Ofrenda_3D/)** | Creative WebGL | Interactive Mexican Day of the Dead 3D altar with real-time shaders and custom lighting. | [🚀 Live Demo](https://vickman123.github.io/Ofrenda_3D/) · [Code](https://github.com/Vickman123/Ofrenda_3D) |
+| **[Convertidor PDF a Word Client-Side](https://vickman123.github.io/Convertidor-pdf-a-word-multidocs/)** | Utility / Privacy | 100% in-browser PDF to DOCX converter with zero server latency and total privacy. | [🚀 Live Demo](https://vickman123.github.io/Convertidor-pdf-a-word-multidocs/) · [Code](https://github.com/Vickman123/Convertidor-pdf-a-word-multidocs) |
 
 ---
 
